@@ -14,4 +14,4 @@ I used [Ubuntu Mate](https://ubuntu-mate.org/) 22.04.2 LTS.
 To install [FFmpeg](https://github.com/FFmpeg/FFmpeg) on Debian-based distros, you can use the following command:
 `sudo apt-get install ffmpeg`
 
-**Code comments are in spanish
+**Code comments are in Spanish
