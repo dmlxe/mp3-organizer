@@ -13,3 +13,5 @@ You need to have a Linux box and FFmpeg installed on it to run this script.
 I used [Ubuntu Mate](https://ubuntu-mate.org/) 22.04.2 LTS.
 To install [FFmpeg](https://github.com/FFmpeg/FFmpeg) on Debian-based distros, you can use the following command:
 `sudo apt-get install ffmpeg`
+
+**Code comments are in spanish
