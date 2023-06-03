@@ -16,6 +16,7 @@ segundos=900
 # 35 minutos
 #segundos=2100
 
+# *Intente usar 'archivos_mp3=$(ls *.mp3)' pero no funciona para archivos que tienen espacios en su nombre 
 ### Desglose de find:
 # '.' -> Indica la ruta o directorio donde comenzara la busqueda, en este caso el punto indica busqueda en el directorio actual
 # '-maxdepth 1' -> Indica que tan profundo va a buscar en el arbol de directorios, en este caso (1) solo va a buscar en el directorio donde se encuentra y no buscara dentro de otros directorios que puedan llegar a estar en el directorio actual
