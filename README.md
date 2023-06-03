@@ -9,7 +9,7 @@ I have not had the opportunity to test this script to make it more robust, but i
 
 For some reason, it's not as fast as I thought, but at least it's better than doing it manually.
 
-You need to have a Linux box and FFmpeg installed on it to run this script.
+You need to have FFmpeg installed to run this script.
 I used [Ubuntu Mate](https://ubuntu-mate.org/) 22.04.2 LTS.
 To install [FFmpeg](https://github.com/FFmpeg/FFmpeg) on Debian-based distros, you can use the following command:
 `sudo apt-get install ffmpeg`
